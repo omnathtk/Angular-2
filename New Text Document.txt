@@ -30,3 +30,4 @@ Todo .......
 23.	custome pipe, make custome pipe to filter objects,service and components
 24.	Binding - Interpolation, Property, Event
 25.	inject all service by using dependency injection 
+26.	html local storage
