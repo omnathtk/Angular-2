@@ -1,0 +1,32 @@
+Todo .......
+
+
+{{{{    SHIMS    }}}}
+
+
+
+1. 	drop down using ngfor, ngModel
+2. 	json data fetch from service
+3. 	call all files seperately 
+4. 	Object inside object
+5. 	Object curd operation
+6. 	drop down dynamically
+7. 	two drop down coming dependently
+8. 	fetching data from JSoN Files
+9. 	services in modular approach
+10.	call serivde asynchronously
+11. 	asynch data fetching and writing
+12. 	Http Serivce Model 
+13.	files from different components
+14.	Stroring data in front end only and display it to user
+15.	Modules -> components -> child compenents Integeration in different files
+16.	calling services and passing data from child to parent components and vice versa.
+17.	calling asynch data and doing all jobs simultanously
+18.	object creation and make a playgroud where object can play.
+19.	pass one service to another service same with component also
+20.	make your own component and give some special facility
+21.	make your own service 
+22.	one applicatoin with all service and component will be user define
+23.	custome pipe, make custome pipe to filter objects,service and components
+24.	Binding - Interpolation, Property, Event
+25.	inject all service by using dependency injection 
